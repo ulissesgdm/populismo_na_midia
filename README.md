@@ -10,3 +10,11 @@ Os dados contidos nesse repositórico contèm:
 3 - A tabela com os títulos dos textos e seus respectivos autores;
 
 4 - Os dados de processamento do Iramuteq.
+
+ 4.1 - Os dados do Iramuteq possuem siglas que designam os testes aplicados.
+ 
+     -> alceste = CHD e AFC
+     
+     -> stat = Dados estatísticos
+
+Obs: Recomendamos que os arquivos em R sejam abertos no programa RStudio.
